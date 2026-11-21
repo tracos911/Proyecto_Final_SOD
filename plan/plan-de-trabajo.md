@@ -26,16 +26,10 @@ Montar dos máquinas virtuales con Linux utilizando VirtualBox, configurarlas, p
 - Realizar pruebas de conectividad.
 
 ### Jeffrey Flórez Prado
-- Organizar el repositorio de GitHub.
-- Coordinar las actividades del grupo.
-- Revisar los avances y las entregas.
-- Apoyar la documentación del proyecto.
+.
 
 ### Carlos Valencia
-- Crear la imagen de Docker.
-- Publicar la imagen en Docker Hub.
-- Realizar el despliegue en Kubernetes.
-- Organizar la documentación del sitio web.
+
 
 ## Organización por sprints
 
