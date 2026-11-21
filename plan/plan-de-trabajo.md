@@ -26,7 +26,7 @@ Montar dos máquinas virtuales con Linux utilizando VirtualBox, configurarlas, p
 - Realizar pruebas de conectividad.
 
 ### Jeffrey Flórez Prado
-.
+
 
 ### Carlos Valencia
 
