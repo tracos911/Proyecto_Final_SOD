@@ -39,7 +39,6 @@ Montar dos máquinas virtuales con Linux utilizando VirtualBox, configurarlas, p
 - Realizar el despliegue en Kubernetes.
 - Organizar la documentación del sitio web.
 
-
 ## Organización por sprints
 
 - Sprint 0: Organización del grupo, repositorio y documentos iniciales.
