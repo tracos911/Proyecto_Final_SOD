@@ -35,6 +35,7 @@ Las instalaciones y verificaciones se realizarán durante el desarrollo del proy
 ## Distribuciones seleccionadas
 
 | Elemento |	                   | Distribución |	     | Versión propuesta |
+
 | Máquina virtual gráfica |	     | Xubuntu	    |      | 26.04 LTS "Resolute Raccoon" (lanzada el 23 de abril de 2026) |
 
 | Máquina virtual de consola |	 | Rocky Linux	|      | 10.2 (lanzada el 29 de mayo de 2026) |
