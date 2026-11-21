@@ -57,5 +57,5 @@ Montar dos máquinas virtuales con Linux utilizando VirtualBox, configurarlas, p
 
 Cada integrante debe participar en los sprints, aparecer en el video correspondiente y realizar al menos dos commits propios dentro de cada sprint.
 
-##Enlace del github
-https://github.com/tracos911 /Proyecto_Final_SOD
+## Enlace del github
+https://github.com/tracos911/Proyecto_Final_SOD
