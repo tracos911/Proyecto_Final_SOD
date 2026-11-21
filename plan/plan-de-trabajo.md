@@ -26,10 +26,10 @@ Montar dos máquinas virtuales con Linux utilizando VirtualBox, configurarlas, p
 - Realizar pruebas de conectividad.
 
 ### Jeffrey Flórez Prado
-- Responsabilidad pendiente de definir con el grupo.
+- Coordinación y repositorio.
 
 ### Carlos Valencia
-- Responsabilidad pendiente de definir con el grupo.
+- Docker, Kubernetes y sitio web.
 
 ## Organización por sprints
 
