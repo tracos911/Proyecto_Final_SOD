@@ -70,7 +70,7 @@ Aquí va el enlace del video de YouTube (público o no listado).<<--- como se ti
 ## Lo que realizo cada integrante en este sprint
 | Integrante | Que hizo | Commits |
 |---|---|---|
-| Jeffrey florez prado | Creo las paginas del sitio y reviso que no falte nada | porque |
+| Jeffrey florez prado | Creo las paginas del sitio y reviso que no falte nada | 4 |
 | Jean Paul López Bolaños | falta | porque |
 | Carlos Valencia | falta | porque |
 
