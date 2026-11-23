@@ -8,6 +8,7 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 | / | 2gb | porque |
 | swap | 2gb | porque |
 | /home | 2gb | porque |
+
 (añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
 ## Comandos usados
 | Comandos |
@@ -28,6 +29,7 @@ instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de
 |/var | 2gb | porque |
 | swap | 2gb | porque |
 | /home | 2gb | porque |
+
 (añadir herramientas instaladas como por ejemplo make, rsync, curl, git y wget)
 ## Comandos usados
 | Comandos |
