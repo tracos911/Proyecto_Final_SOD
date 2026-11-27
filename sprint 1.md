@@ -13,19 +13,33 @@ Dos navegadores y dos editores: Gnome Web y Falkon, Geany y Vim.
 
 ## Comandos usados
 **Ajustar la hora y el nombre del equipo
+
 sudo timedatectl set-timezone America/Bogota
+
 sudo hostnamectl set-hostname g07-grafica
+
 sudo sed -i 's/grupo-7-VirtualBox/g07-grafica/g' /etc/hosts
+
 **Instalar editores y cliente SSH
+
 sudo apt update
+
 sudo apt install -y geany vim openssh-client
+
 **Instalar navegadores
+
 sudo apt install -y epiphany-browser falkon
+
 sudo mkdir -p /usr/share/qt5
+
 sudo dpkg --configure -a
+
 **Verificar particiones
+
 date; lsblk; df -h; cat /etc/fstab
+
 **Verificar navegadores y editores
+
 date; dpkg -l epiphany-browser falkon geany vim | grep ^ii
 
 ## Código del sprint
@@ -134,6 +148,6 @@ Aquí va el enlace del video de YouTube (público o no listado).<<--- como se ti
 | Integrante | Que hizo | Commits |
 |---|---|---|
 | Jeffrey florez prado | Creo las paginas del sitio y reviso que no falte nada | 14 |
-| Jean Paul López Bolaños |  Instaló las dos VMs con particionado manual, sus programas y herramientas, y configuró la red (IP y ping) | 6 |
+| Jean Paul López Bolaños |  Instaló las dos VMs con particionado manual, sus programas y herramientas, y configuró la red (IP y ping) | 8 |
 | Carlos Valencia | SSH e instantaneas | 10 |
 
