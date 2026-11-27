@@ -91,6 +91,12 @@ Comandos: ip a en cada VM y ping en los dos sentidos.
 ## Captura de pantalla 7
 [Captura 7: ping de la gráfica a la consola y de la consola a la gráfica]
 
+<img width="847" height="442" alt="image" src="https://github.com/user-attachments/assets/218c980e-5b3d-4e8b-9862-ba5acb30918c" />
+
+<img width="1061" height="581" alt="image" src="https://github.com/user-attachments/assets/156b8bf0-515f-4a33-8da9-ae98d01f53fa" />
+
+
+
 ## 4.SSH
 Entramos por SSH desde la VM gráfica a la VM de consola.
 Comando: ssh usuario@direccion-de-la-consola
