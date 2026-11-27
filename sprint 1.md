@@ -92,6 +92,9 @@ Comando: ssh usuario@direccion-de-la-consola
 ## Captura de pantalla 8
 [Captura 8: la sesión SSH abierta, con el prompt de la consola]
 
+<img width="898" height="686" alt="image" src="https://github.com/user-attachments/assets/f078eae3-85a0-4198-b344-aa17ec854113" />
+
+
 ## 5.Instantáneas
 Una por VM, llamada instalacion-limpia, tomada con la VM apagada y la instalación terminada.
 ## Captura de pantalla 9
