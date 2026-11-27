@@ -69,8 +69,8 @@ instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de
 
 ## Comandos usados
 | Comandos |
-
-**Ajustar el nombre del equipo y la hora
+|---|
+|**Ajustar el nombre del equipo y la hora
 
 sudo hostnamectl set-hostname g07-consola
 
@@ -86,7 +86,7 @@ sudo systemctl enable --now sshd
 
 date; lsblk; df -h; cat /etc/fstab
 
-date; for h in make rsync curl git wget; do $h --version | head -n 1; done |
+date; for h in make rsync curl git wget; do $h --version  head -n 1; done |
 
 ## Captura de pantalla 4
 
