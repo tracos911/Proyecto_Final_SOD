@@ -88,8 +88,6 @@ Cada VM tiene dos adaptadores: el 1 en NAT (internet) y el 2 en red solo-anfitri
 Comandos: ip a en cada VM y ping en los dos sentidos.
 ## Captura de pantalla 6
 [Captura 6: ip a en las dos VMs, mostrando una dirección en cada interfaz]
-## Captura de pantalla 7
-[Captura 7: ping de la gráfica a la consola y de la consola a la gráfica]
 
 IP CONSOLA
 
@@ -97,8 +95,12 @@ IP CONSOLA
 
 IP GRAFICA
 
-
 <img width="1061" height="581" alt="image" src="https://github.com/user-attachments/assets/156b8bf0-515f-4a33-8da9-ae98d01f53fa" />
+
+## Captura de pantalla 7
+[Captura 7: ping de la gráfica a la consola y de la consola a la gráfica]
+
+
 
 
 
