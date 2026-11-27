@@ -9,7 +9,8 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 | swap | 2gb | porque respalda la RAM cuando se llena |
 | /home | 9.84gb | porque guardo los archivos del usuario separados del sistema |
 
-(añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
+Dos navegadores y dos editores: Gnome Web y Falkon, Geany y Vim.
+
 ## Comandos usados
 **Ajustar la hora y el nombre del equipo
 sudo timedatectl set-timezone America/Bogota
