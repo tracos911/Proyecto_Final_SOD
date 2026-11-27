@@ -117,8 +117,13 @@ Comando: ssh usuario@direccion-de-la-consola
 Una por VM, llamada instalacion-limpia, tomada con la VM apagada y la instalación terminada.
 ## Captura de pantalla 9
 [Captura 9: pestaña de instantáneas de g07-grafica]
+
+<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/208e9e57-efa4-42de-9e81-f449ed937c18" />
+
 ## Captarua de pantalla 10
 [Captura 10: pestaña de instantáneas de g07-consola]
+
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/1c922175-9bff-4216-b359-3ef3e32b1fb4" />
 
 ## Codigo del sprint
 se publica 48 horas antes del cierre en el campus
