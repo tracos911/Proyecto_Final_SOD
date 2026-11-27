@@ -5,9 +5,9 @@
 instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar el disco»(añadir descripcion como el ejemplo)
 | Partición | Tamaño | Por que |
 |---|---|---|
-| / | 6.14gb | porque |
-| swap | 2.05gb | porque |
-| /home | 18.65gb | porque |
+| / | 15gb | porque |
+| swap | 2gb | porque |
+| /home | 9.84gb | porque |
 
 (añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
 ## Comandos usados
@@ -24,6 +24,8 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 
 ## Captura de pantalla 3
 [Captura 3: los dos navegadores y los dos editores abiertos]
+<img width="1278" height="646" alt="image" src="https://github.com/user-attachments/assets/c0e5b6d3-a3b1-4afa-9d69-48c6a21e4ce0" />
+
 
 ## 2.VM de consola(g07-consola)
 instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de 25 GB y 2 CPU.(añadir descripcion como en el ejemplo) 
