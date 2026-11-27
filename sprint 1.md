@@ -11,10 +11,13 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 
 (añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
 ## Comandos usados
-Ajustar la hora y el nombre del equipo
-sudo timedatectl set-timezone America/Bogota
-sudo hostnamectl set-hostname g07-grafica
-sudo sed -i 's/grupo-7-VirtualBox/g07-grafica/g' /etc/hosts
+**Ajustar la hora y el nombre del equipo
+
+**sudo timedatectl set-timezone America/Bogota
+
+**sudo hostnamectl set-hostname g07-grafica
+
+**sudo sed -i 's/grupo-7-VirtualBox/g07-grafica/g' /etc/hosts
 
 Instalar editores y cliente SSH
 sudo apt update
