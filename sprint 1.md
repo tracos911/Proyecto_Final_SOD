@@ -50,13 +50,11 @@ date; cat ~/codigo_sprint1.txt
 ## Captura de pantalla 1
 <img width="1759" height="942" alt="image" src="https://github.com/user-attachments/assets/83da3897-a995-4277-8059-cdebfa03ec7d" />
 
-
 ## Captura de pantalla 2
 <img width="1283" height="801" alt="image" src="https://github.com/user-attachments/assets/953a351b-96f5-4656-92a1-180833930739" />
 
 ## Captura de pantalla 3
 <img width="1278" height="646" alt="image" src="https://github.com/user-attachments/assets/c0e5b6d3-a3b1-4afa-9d69-48c6a21e4ce0" />
-
 
 ## 2.VM de consola(g07-consola)
 instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de 25 GB y 2 CPU.(añadir descripcion como en el ejemplo) 
@@ -81,7 +79,6 @@ instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de
 [Captura 5: las cinco herramientas mostrando su versión]
 
 <img width="1293" height="205" alt="image" src="https://github.com/user-attachments/assets/84f21e16-5b2a-47f9-8b1d-735e54699e0f" />
-
 
 ## 3.Red 
 Cada VM tiene dos adaptadores: el 1 en NAT (internet) y el 2 en red solo-anfitrión (para verse entre ellas).
@@ -114,8 +111,7 @@ Comando: ssh usuario@direccion-de-la-consola
 ## Captura de pantalla 8
 [Captura 8: la sesión SSH abierta, con el prompt de la consola]
 
-
-
+<img width="410" height="165" alt="image" src="https://github.com/user-attachments/assets/30c185e6-eab1-4ce6-a917-7d472999e581" />
 
 ## 5.Instantáneas
 Una por VM, llamada instalacion-limpia, tomada con la VM apagada y la instalación terminada.
