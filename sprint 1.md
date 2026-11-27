@@ -5,9 +5,9 @@
 instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar el disco»(añadir descripcion como el ejemplo)
 | Partición | Tamaño | Por que |
 |---|---|---|
-| / | 2gb | porque |
-| swap | 2gb | porque |
-| /home | 2gb | porque |
+| / | 6.14gb | porque |
+| swap | 2.05gb | porque |
+| /home | 18.65gb | porque |
 
 (añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
 ## Comandos usados
