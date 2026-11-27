@@ -67,6 +67,7 @@ instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de
 | swap | 2gb | porque apoya a la RAM cuando se llena |
 | /home | 7gb | porque los archivos del usuario |
 
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/86561979-4ade-4e97-b6ab-75afb5ec38ab" />
 
 ## Comandos usados
 | Comandos |
