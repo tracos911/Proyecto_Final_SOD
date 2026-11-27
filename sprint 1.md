@@ -80,6 +80,9 @@ instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de
 ## Captura de pantalla 5
 [Captura 5: las cinco herramientas mostrando su versión]
 
+<img width="1293" height="205" alt="image" src="https://github.com/user-attachments/assets/84f21e16-5b2a-47f9-8b1d-735e54699e0f" />
+
+
 ## 3.Red 
 Cada VM tiene dos adaptadores: el 1 en NAT (internet) y el 2 en red solo-anfitrión (para verse entre ellas).
 Comandos: ip a en cada VM y ping en los dos sentidos.
