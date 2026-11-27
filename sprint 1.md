@@ -5,9 +5,9 @@
 instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar el disco»(añadir descripcion como el ejemplo)
 | Partición | Tamaño | Por que |
 |---|---|---|
-| / | 15gb | porque |
-| swap | 2gb | porque |
-| /home | 9.84gb | porque |
+| / | 15gb | porque aloja el sistema el escritorio y los programas  |
+| swap | 2gb | porque respalda la RAM cuando se llena |
+| /home | 9.84gb | porque guardo los archivos del usuario separados del sistema |
 
 (añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
 ## Comandos usados
@@ -62,12 +62,12 @@ date; cat ~/codigo_sprint1.txt
 instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de 25 GB y 2 CPU.(añadir descripcion como en el ejemplo) 
 | Partición | Tamaño | Por que |
 |---|---|---|
-| / | 2gb | porque |
-|/var | 2gb | porque |
-| swap | 2gb | porque |
-| /home | 2gb | porque |
+| / | 10gb | porque es del sistema y los programas |
+|/var | 6gb | porque registros y cache y datos que van creciendo |
+| swap | 2gb | porque apoya a la RAM cuando se llena |
+| /home | 7gb | porque los archivos del usuario |
 
-(añadir herramientas instaladas como por ejemplo make, rsync, curl, git y wget)
+
 ## Comandos usados
 | Comandos |
 |---|
