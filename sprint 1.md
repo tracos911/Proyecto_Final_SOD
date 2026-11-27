@@ -41,7 +41,7 @@ date; lsblk; df -h; cat /etc/fstab
 
 date; dpkg -l epiphany-browser falkon geany vim | grep ^ii
 
-**Código del sprint
+## Código del sprint
 
 echo "YD07-PDUX" > ~/codigo_sprint1.txt
 
@@ -124,9 +124,6 @@ Una por VM, llamada instalacion-limpia, tomada con la VM apagada y la instalaci�
 [Captura 10: pestaña de instantáneas de g07-consola]
 
 <img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/1c922175-9bff-4216-b359-3ef3e32b1fb4" />
-
-## Codigo del sprint
-se publica 48 horas antes del cierre en el campus
 
 ## Video del sprint 1(3 minutos)
 Pantalla continua y sin cortes. Cada integrante muestra su parte, dice su nombre y qué hizo en los primeros 10 segundos, y aparece su cara.
