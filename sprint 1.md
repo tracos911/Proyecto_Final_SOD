@@ -100,9 +100,13 @@ IP GRAFICA
 ## Captura de pantalla 7
 [Captura 7: ping de la gráfica a la consola y de la consola a la gráfica]
 
+PING CONSOLA 
 
+<img width="594" height="273" alt="image" src="https://github.com/user-attachments/assets/4f4799f5-823d-4cef-b64e-fc0d980ead99" />
 
+PING GRAFICA 
 
+<img width="650" height="376" alt="image" src="https://github.com/user-attachments/assets/7118d480-0efd-4b55-9cfa-31ffef1cfd03" />
 
 ## 4.SSH
 Entramos por SSH desde la VM gráfica a la VM de consola.
