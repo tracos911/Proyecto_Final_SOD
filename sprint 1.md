@@ -11,9 +11,6 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 
 (añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
 ## Comandos usados
-| Comandos |
-|---|
-|  |
 Ajustar la hora y el nombre del equipo
 sudo timedatectl set-timezone America/Bogota
 sudo hostnamectl set-hostname g07-grafica
