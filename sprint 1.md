@@ -136,7 +136,7 @@ Una por VM, llamada instalacion-limpia, tomada con la VM apagada y la instalaci�
 
 <img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/208e9e57-efa4-42de-9e81-f449ed937c18" />
 
-## Captarua de pantalla 10
+## Captara de pantalla 10
 [Captura 10: pestaña de instantáneas de g07-consola]
 
 <img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/1c922175-9bff-4216-b359-3ef3e32b1fb4" />
