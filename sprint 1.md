@@ -142,8 +142,8 @@ Una por VM, llamada instalacion-limpia, tomada con la VM apagada y la instalaci�
 <img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/1c922175-9bff-4216-b359-3ef3e32b1fb4" />
 
 ## Video del sprint 1(3 minutos)
-Pantalla continua y sin cortes. Cada integrante muestra su parte, dice su nombre y qué hizo en los primeros 10 segundos, y aparece su cara.
-Aquí va el enlace del video de YouTube (público o no listado).<<--- como se tiene que hacer el video
+https://youtu.be/8EUEPfiuu1k
+
 ## Lo que realizo cada integrante en este sprint
 | Integrante | Que hizo | Commits |
 |---|---|---|
