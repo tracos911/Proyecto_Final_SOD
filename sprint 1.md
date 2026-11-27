@@ -132,7 +132,7 @@ Aquí va el enlace del video de YouTube (público o no listado).<<--- como se ti
 ## Lo que realizo cada integrante en este sprint
 | Integrante | Que hizo | Commits |
 |---|---|---|
-| Jeffrey florez prado | Creo las paginas del sitio y reviso que no falte nada | 4 |
+| Jeffrey florez prado | Creo las paginas del sitio y reviso que no falte nada | 14 |
 | Jean Paul López Bolaños |  Instaló las dos VMs con particionado manual, sus programas y herramientas, y configuró la red (IP y ping) | 6 |
 | Carlos Valencia | SSH e instantaneas | 10 |
 
