@@ -13,7 +13,7 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 ## Comandos usados
 **Ajustar la hora y el nombre del equipo
 
-**sudo timedatectl set-timezone America/Bogota
+*sudo timedatectl set-timezone America/Bogota
 
 **sudo hostnamectl set-hostname g07-grafica
 
