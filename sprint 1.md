@@ -2,7 +2,7 @@
 
 ## 1. VM grafica(g07-grafica)
 
-instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar el disco»(añadir descripcion como el ejemplo)
+instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar el disco»
 | Partición | Tamaño | Por que |
 |---|---|---|
 | / | 15gb | porque aloja el sistema el escritorio y los programas  |
