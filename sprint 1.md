@@ -70,7 +70,23 @@ instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de
 ## Comandos usados
 | Comandos |
 |---|
-| aqui van los comandos |
+| **Ajustar el nombre del equipo y la hora
+
+sudo hostnamectl set-hostname g07-consola
+
+sudo timedatectl set-timezone America/Bogota
+
+**Instalar las herramientas y activar SSH
+
+sudo dnf install -y make rsync curl git wget openssh-server
+
+sudo systemctl enable --now sshd
+
+**Verificar particiones y herramientas
+
+date; lsblk; df -h; cat /etc/fstab
+
+date; for h in make rsync curl git wget; do $h --version | head -n 1; done |
 ## Captura de pantalla 4
 
 <img width="898" height="686" alt="image" src="https://github.com/user-attachments/assets/58a8a4ad-c96a-4f2d-a8c4-0f04f3ab5ce5" />
