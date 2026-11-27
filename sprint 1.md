@@ -12,6 +12,7 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 (añadir navegadores y editores intalados como por ejemplo Firefox y Chromium, nano y gedit.)
 ## Comandos usados
 | Comandos |
+|---|
 | aqui van los comandos |
 ## Captura de pantalla 1
 <img width="1759" height="942" alt="image" src="https://github.com/user-attachments/assets/83da3897-a995-4277-8059-cdebfa03ec7d" />
