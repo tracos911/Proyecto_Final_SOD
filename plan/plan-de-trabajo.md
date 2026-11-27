@@ -15,7 +15,7 @@ Montar dos máquinas virtuales con Linux utilizando VirtualBox, configurarlas, p
 |---|---|
 | Jean Paul López Bolaños | Máquinas virtuales y red |
 | Jeffrey Flórez Prado | Coordinación y repositorio |
-| Carlos Valencia | Docker, Kubernetes y sitio web |
+| Carlos Valencia | Docker, Kubernetes |
 
 ## Distribución del trabajo
 
