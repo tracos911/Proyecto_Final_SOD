@@ -74,7 +74,9 @@ instalacion de Rocky linux con particion manual: / ,swap, /home y /var. disco de
 |---|
 | aqui van los comandos |
 ## Captura de pantalla 4
-[Captura 4: lsblk, df -h y cat /etc/fstab de g07-consola, con prompt y fecha]
+
+<img width="898" height="686" alt="image" src="https://github.com/user-attachments/assets/58a8a4ad-c96a-4f2d-a8c4-0f04f3ab5ce5" />
+
 ## Captura de pantalla 5
 [Captura 5: las cinco herramientas mostrando su versión]
 
@@ -92,7 +94,7 @@ Comando: ssh usuario@direccion-de-la-consola
 ## Captura de pantalla 8
 [Captura 8: la sesión SSH abierta, con el prompt de la consola]
 
-<img width="898" height="686" alt="image" src="https://github.com/user-attachments/assets/f078eae3-85a0-4198-b344-aa17ec854113" />
+
 
 
 ## 5.Instantáneas
