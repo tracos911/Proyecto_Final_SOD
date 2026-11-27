@@ -20,6 +20,8 @@ instalacion de Xubuntu con particion manual: / ,swap y /home. No usamos «borrar
 
 ## Captura de pantalla 2
 [Captura 2: lsblk, df -h y cat /etc/fstab, con el prompt usuario@g07-grafica y la salida de date]
+<img width="1283" height="801" alt="image" src="https://github.com/user-attachments/assets/953a351b-96f5-4656-92a1-180833930739" />
+
 ## Captura de pantalla 3
 [Captura 3: los dos navegadores y los dos editores abiertos]
 
